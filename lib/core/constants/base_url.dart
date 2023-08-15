@@ -1,0 +1,1 @@
+const String BASE_URL = "https://api.api-ninjas.com/v1/quotes?category=";
